@@ -17,10 +17,11 @@ P.S. Don't let the title of the app scare you :smile:.
 - Up to 30k commonly used Japanese words are included
 - An example sentence and an English translation are provided for each word
 - Integrated Romaji to Hiragana IME
-- The Hiragana-Kanji prefix tree allows for fast and accurate word retrieval
+- Hiragana-Kanji prefix tree allows for fast and accurate word retrieval
 
 **How does search with IME works?**
 
 Let's say we want to look up the word 免許証 (katakana: めんきょしょう, romaji: menkyoshou), so we start typing romaji
 
-![image typing_mennkyoshou.gif not found](https://psv4.userapi.com/c240331/u248809380/docs/d52/dc69c4d2c54d/ezgif_com-gif-maker.gif)
+
+<img width=792 height=258 alt="" src="https://psv4.userapi.com/c240331/u248809380/docs/d52/dc69c4d2c54d/ezgif_com-gif-maker.gif?extra=bsjB1Yxw6Pz_tD6Uzi9zWIVaPTF27KFc0IPiTh4l_lUiFzIY2aaGrb3J8J4HqFPjQzpuOyzM30AAqoxvbLNPnmQor76qMZH70u8JZCMdnRuxOYaxDHwxV_OmwRZbATiYykt855pbqqUCu1K1IXx6r8M"/>
